@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>尚硅谷官网hhxx</title>
+    <title>尚硅谷官网hhxxss</title>
   </head>
   <body>
   <h1 style="color: lawngreen">hello idea!!!</h1>
